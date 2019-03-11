@@ -83,8 +83,7 @@
       diastolicbp: {value: ''},
       ldl: {value: ''},
       hdl: {value: ''},
-      xyz; {value: 'BBB'},
-    };
+   };
   }
 
   function getBloodPressureValue(BPObservations, typeOfPressure) {
